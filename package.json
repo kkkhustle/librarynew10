@@ -1,0 +1,13 @@
+{ 
+  "name": "redux", 
+  "version": "1.0.0", 
+  "description": "Redux ", 
+  "main": "index.js", 
+  "scripts": { 
+    "start": "nicepage.js" ,
+    "start": "jquery.js" 
+  }
+, 
+  "author": "Maxim Patsianskiy", 
+  "license": "MIT" 
+}
